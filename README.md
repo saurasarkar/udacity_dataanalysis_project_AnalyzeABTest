@@ -1,6 +1,4 @@
-# udacity_dataanalysis_project_AnalyzeABTest
-
-**************************************************************************************************************************************
+# Analyze AB Test - 3 methods to analyze AB Test results
 
 ## Version Notes
 ---------------
@@ -22,9 +20,6 @@ DATA PREP
 ## DATA 
 -------
 (in local) - CONTACT ME to collaborate
-
-
-**************************************************************************************************************************************
 
 
 ## INTRODUCTION
@@ -54,3 +49,5 @@ df.query('converted == 1').count()[1]/df.count()[1]
 - GITHUB: Signed up for 'Next Journal' to allow run env for jupyter notebook and R without any download. 
 - GITHUB: Also sync'd with 'ReviewNB' to allow for more readable version control as without it it is difficult to render the JSON file changes
 - GITHUB: This is markup
+11/6/2020
+- Just finished up the probability part. Main sections till pending
