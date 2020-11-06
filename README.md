@@ -1,13 +1,11 @@
 # Analyze AB Test - 3 methods to analyze AB Test results
 
 ## Version Notes
----------------
 * First version of the file was as it was submitted in Udacity.
 * Following versions are an effort to re-familiarize myself with the Statistical 
   concepts while editing the file to look more like a stakeholder facing project instead of an assignment
 
 ## Jupyter EDA template observations
------------------------------------
 GOOD PRACTICE
 * Include and INDEX
 * Use readme to capture any on going attempts to solve 'warnings'
@@ -18,17 +16,14 @@ DATA PREP
 
 
 ## DATA 
--------
 (in local) - CONTACT ME to collaborate
 
 
 ## INTRODUCTION
---------------
 Jupyter notebook is written to identify the statistical analysis utlized to determine if the variation is viable
 
 
 ## DEBUGGING and LEARNINGS
---------------------------
 
 1. (PENDING) REF: # Drop duplicates | README
 - tried my best to use loc to indentify index but I couldn't figure it out
